@@ -23,5 +23,10 @@
     "repository": "BigTopKrazies/proprietary_vendor_motorola",
     "target_path":  "vendor/motorola",
     "branch": "nougat"
-  }
+  },
+  {
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "cm-14.1"
+  },
 ]
